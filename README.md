@@ -1,9 +1,19 @@
 # Deep learning project
 ## Detecting and classifying malignant lung nodules from CT scans using PyTorch
 
-Refer to the [project report](Project&#32;Report.pdf) for the full description of the project.
+Refer to the **[project report](Project&#32;Report.pdf)** for the full description of the project.
 
 This project is based on the book [Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann](https://www.manning.com/books/deep-learning-with-pytorch).
+
+### Section of a CT scan
+<img src="images/ct_section.jpg" alt="Section of a CT scan" style="width:50em;"/>
+
+
+### Sketch of the overall pipeline
+
+<img src="images/overall_pipeline.jpg" alt="Sketch of the overall pipeline" style="width:50em;"/>
+
+### Project tree description
 
 In the project directory you can find:
 
