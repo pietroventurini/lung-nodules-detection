@@ -1,0 +1,11 @@
+sudo apt-get install p7zip-full
+wget https://zenodo.org/record/3723295/files/subset0.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset0.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset0.zip ;
+wget https://zenodo.org/record/3723295/files/subset1.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset1.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset1.zip ;
+wget https://zenodo.org/record/3723295/files/subset2.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset2.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset2.zip ;
+wget https://zenodo.org/record/3723295/files/subset3.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset3.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset3.zip ;
+wget https://zenodo.org/record/3723295/files/subset4.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset4.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset4.zip ;
+wget https://zenodo.org/record/3723295/files/subset5.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset5.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset5.zip ; 
+wget https://zenodo.org/record/3723295/files/subset6.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset6.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset6.zip ;
+wget https://zenodo.org/record/4121926/files/subset7.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset7.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset7.zip ;
+wget https://zenodo.org/record/4121926/files/subset8.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset8.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset8.zip ;
+wget https://zenodo.org/record/4121926/files/subset9.zip -P data-unversioned/part2/luna/ && 7za x data-unversioned/part2/luna/subset9.zip -odata-unversioned/part2/luna/ ; rm data-unversioned/part2/luna/subset9.zip 

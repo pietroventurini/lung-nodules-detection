@@ -1,0 +1,10 @@
+.DS_Store
+tools
+*_old
+.venv
+.vscode
+data/*
+!data/part2/
+data-unversioned/
+notes.md
+runs/
